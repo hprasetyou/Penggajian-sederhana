@@ -1,0 +1,25 @@
+E:\vb\penghitungan gaji\bin\Debug\penghitungan gaji.exe.config
+E:\vb\penghitungan gaji\bin\Debug\penghitungan gaji.exe
+E:\vb\penghitungan gaji\bin\Debug\penghitungan gaji.pdb
+E:\vb\penghitungan gaji\bin\Debug\penghitungan gaji.xml
+E:\vb\penghitungan gaji\obj\Debug\penghitungan gaji.vbprojResolveAssemblyReference.cache
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.aktivitas.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.Aplikasi_Penggajian.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.Hitung_gaji.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.karyawanbaru.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.Kebijakan.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.kinerja_karyawan.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.lapdatakaryawan.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.Login.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.Resources.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.Tampilkan_data_karyawan.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan gaji.vbproj.GenerateResource.Cache
+E:\vb\penghitungan gaji\obj\Debug\penghitungan gaji.exe
+E:\vb\penghitungan gaji\obj\Debug\penghitungan gaji.xml
+E:\vb\penghitungan gaji\obj\Debug\penghitungan gaji.pdb
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.form_admin.resources
+E:\vb\penghitungan gaji\obj\Debug\penghitungan_gaji.lapgaji.resources
+E:\vb\penghitungan gaji\bin\Debug\penghitungan gaji.exe.manifest
+E:\vb\penghitungan gaji\bin\Debug\penghitungan gaji.application
+E:\vb\penghitungan gaji\obj\Debug\penghitungan gaji.exe.manifest
+E:\vb\penghitungan gaji\obj\Debug\penghitungan gaji.application
